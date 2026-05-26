@@ -6,7 +6,7 @@ A production-ready habit tracker built with React + Vite + Supabase.
 
 ## ⚡ Quick Start (Local Dev)
 
-### Step 1 — Install dependencies
+### Step 1 — Install dependencies 
 ```bash
 npm install
 ```
